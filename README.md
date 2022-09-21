@@ -9,7 +9,7 @@
 
 3) Fetch the Public IP
 
-Run Ansible Playbook
+4) Run Ansible Playbook
 
 - Install Java, Install Jenkins
 
