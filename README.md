@@ -14,3 +14,5 @@ Run Ansible Playbook
 
 - Print Jenkins default password
 
+
+![174525141-39a32cbc-f215-4ebd-93f8-2e836ceb264e](https://user-images.githubusercontent.com/85149943/191419688-f0c2f824-9d9d-4aa5-a4ea-ba2554104cf2.png)
