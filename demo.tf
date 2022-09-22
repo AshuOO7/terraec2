@@ -8,8 +8,8 @@ locals {
 
 provider "aws" {
   region = "ap-south-1"
-  access_key = "AKIA6AOPHCA3EZE4PJ"
-  secret_key = "sBXdJpYrUbUXFk+KeqADI2ZdzSOik9pU/IMRAC"
+  access_key = "******"
+  secret_key = "******"
 }
 
 resource "aws_security_group" "nginx" {
